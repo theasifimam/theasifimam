@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theasifimam
-- 👀 I’m interested in JavaScript, Java, Python, websites & web applications.
+- 👀 I’m interested in JavaScript, websites & web applications.
 - 🌱 I’m currently learning Web development.
 - 💞️ I’m looking to collaborate on anything in my interested topic list.
 - 📫 How to reach me at asifimam999@gmail.com
