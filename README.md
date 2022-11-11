@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theasifimam
-- 👀 I’m interested in JavaScript, websites & web applications.
-- 🌱 I’m currently learning Web development.
+- 👀 I’m interested in JavaScript, Reactjs, Nodejs, Mongodb, HTML, CSS, Modern UI.
+- 🌱 I’m currently learning Web development in MERN stack.
 - 💞️ I’m looking to collaborate on anything in my interested topic list.
 - 📫 How to reach me at asifimam999@gmail.com
 
