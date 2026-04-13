@@ -29,8 +29,8 @@ I am a passionate Software Developer from Bihar, India, dedicated to building hi
 I’m always open to collaborating on innovative MERN projects or discussing software architecture.
 
 * **Email**: [asifimam999@gmail.com](mailto:asifimam999@gmail.com)
-* **Location**: Darbhanga, Bihar, India 🇮🇳
-* **Portfolio**: *[https://asif.mazlis.com]*
+* **Location**: Delhi, India 🇮🇳
+* **Portfolio**: *https://asif.mazlis.com*
 
 ---
 *"Pushing the limits of the MERN stack, one commit at a time."*
